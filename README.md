@@ -35,7 +35,7 @@ Your Assignment 04 Deliverables are listed below:
 
 # Deliverables
 
-You should edit the following items in-line - substitute any of the provided text with your response below - for your README.md Assignment 04 submission. 
+You should edit the following items in-line and substitute any of the provided text with your response below for your README.md Assignment 04 submission. 
 
 
 ---
